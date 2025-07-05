@@ -1,0 +1,585 @@
+{
+  "ak8_mixed": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 8-11",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung (lt. Vorgabe) per Video als 'Bewerbung' durch den Heimtrainer an den/die Landestrainer/in",
+          "2. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "3. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "5. Strecksprünge und TV (Technische Verbindung)",
+          "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "Altersklassen und Zugehörigkeit",
+        "type": "info",
+        "content": [
+          "Der Landeskader umfasst die Altersklassen 9-18.",
+          "Es gilt die Altersklasse, in der man momentan ist (entspricht der Wettkampfklasse).",
+          "Ein Kind das 8 Jahre ist macht den Kadertest für AK 8, kommt aber erst im Jahr der AK 9 in den LK.",
+          "Die Kaderzugehörigkeit beginnt am 01.01. und endet am 31.12. eines Jahres."
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen", 
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak9_mixed": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 8-11",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung (lt. Vorgabe) per Video als 'Bewerbung' durch den Heimtrainer an den/die Landestrainer/in",
+          "2. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "3. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "5. Strecksprünge und TV (Technische Verbindung)",
+          "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "Altersklassen und Zugehörigkeit",
+        "type": "info",
+        "content": [
+          "Der Landeskader umfasst die Altersklassen 9-18.",
+          "Es gilt die Altersklasse, in der man momentan ist (entspricht der Wettkampfklasse).", 
+          "Die Kaderzugehörigkeit beginnt am 01.01. und endet am 31.12. eines Jahres."
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning", 
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak10_mixed": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien", 
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 8-11",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung (lt. Vorgabe) per Video als 'Bewerbung' durch den Heimtrainer an den/die Landestrainer/in",
+          "2. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "3. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "5. Strecksprünge und TV (Technische Verbindung)",
+          "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "Altersklassen und Zugehörigkeit",
+        "type": "info",
+        "content": [
+          "Der Landeskader umfasst die Altersklassen 9-18.",
+          "Es gilt die Altersklasse, in der man momentan ist (entspricht der Wettkampfklasse).",
+          "Die Kaderzugehörigkeit beginnt am 01.01. und endet am 31.12. eines Jahres."
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak11_mixed": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.", 
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 8-11",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung (lt. Vorgabe) per Video als 'Bewerbung' durch den Heimtrainer an den/die Landestrainer/in",
+          "2. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "3. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "5. Strecksprünge und TV (Technische Verbindung)",
+          "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "Altersklassen und Zugehörigkeit",
+        "type": "info",
+        "content": [
+          "Der Landeskader umfasst die Altersklassen 9-18.",
+          "Es gilt die Altersklasse, in der man momentan ist (entspricht der Wettkampfklasse).",
+          "Die Kaderzugehörigkeit beginnt am 01.01. und endet am 31.12. eines Jahres."
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak12_m": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 12-17",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "2. Kürübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "3. Rankingwert mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "4. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "5. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "6. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "7. Strecksprünge und TV (Technische Verbindung)",
+          "8. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien männlich AK 12",
+        "type": "warning",
+        "content": [
+          "Pflicht Mindestwert: 36,4",
+          "Kür Mindestwert: 41,0",
+          "Rankingwert (2 Kür): 82,0",
+          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak12_w": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 12-17",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "2. Kürübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "3. Rankingwert mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "4. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "5. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "6. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "7. Strecksprünge und TV (Technische Verbindung)",
+          "8. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien weiblich AK 12",
+        "type": "warning",
+        "content": [
+          "Pflicht Mindestwert: 36,4",
+          "Kür Mindestwert: 41,0",
+          "Rankingwert (2 Kür): 82,0",
+          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 9-16: 84 Punkte (= 60%)",
+          "Für Beweglichkeit, Kraft, Bodenkomplex und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak17_m": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 12-17",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "2. Kürübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "3. Rankingwert mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "4. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "5. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "6. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "7. Strecksprünge und TV (Technische Verbindung)",
+          "8. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien männlich AK 17",
+        "type": "warning",
+        "content": [
+          "Kür Mindestwert: 47,5",
+          "Rankingwert (2 Kür): 95,0",
+          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+        ]
+      },
+      {
+        "title": "Übergangskader AK 18-20",
+        "type": "info",
+        "content": [
+          "Ältere Athlet*innen AK 19-21 können in Ausnahmefällen im LK/Übergangskader geführt werden.",
+          "Voraussetzungen: Bereits mindestens 1 Jahr Kaderzugehörigkeit, NK1 oder P-Kader-Kriterien knapp verpasst, mittelfristige Perspektive einer regulären Wiederaufnahme gewährleistet."
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  },
+  "ak17_w": {
+    "sections": [
+      {
+        "title": "Bundeseinheitliche Landeskaderkriterien",
+        "type": "info",
+        "content": [
+          "Die bundeseinheitlichen Landeskaderkriterien beschreiben die Anforderungen im Grundlagen- und Aufbautraining des Trampolinturnens in Deutschland.",
+          "Sie sind ein wichtiger Baustein in der gesamten Kaderpyramide und dienen dem perspektivischen Leistungsaufbau.",
+          "Oberste Priorität hat die Entwicklung der allgemeinen Leistungsvoraussetzungen vor der Ausprägung der sportart-spezifischen Wettkampfleistung."
+        ]
+      },
+      {
+        "title": "Bewerbungsprozess AK 12-17",
+        "type": "success",
+        "content": [
+          "1. Pflichtübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "2. Kürübung mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "3. Rankingwert mit den geforderten Mindestwerten im L-Kader-Wettkampf erfüllen",
+          "4. Einladung zum LVT (Leistungsvoraussetzungstest)",
+          "5. Erreichen der Mindestpunktzahlen im LVT (Kraft, Beweglichkeit, Bodenkomplex, Grundlagenausdauer)",
+          "6. Erfüllen der Pflichtelemente der TN und TBN im LVT",
+          "7. Strecksprünge und TV (Technische Verbindung)",
+          "8. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien weiblich AK 17",
+        "type": "warning",
+        "content": [
+          "Kür Mindestwert: 46,1",
+          "Rankingwert (2 Kür): 92,2",
+          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+        ]
+      },
+      {
+        "title": "Übergangskader AK 18-20",
+        "type": "info",
+        "content": [
+          "Ältere Athlet*innen AK 19-21 können in Ausnahmefällen im LK/Übergangskader geführt werden.",
+          "Voraussetzungen: Bereits mindestens 1 Jahr Kaderzugehörigkeit, NK1 oder P-Kader-Kriterien knapp verpasst, mittelfristige Perspektive einer regulären Wiederaufnahme gewährleistet."
+        ]
+      },
+      {
+        "title": "Bestandteile der Leistungsvoraussetzungen",
+        "type": "info",
+        "content": [
+          "Trampolin: Ab AK 12+ Wettkampfergebnisse",
+          "LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
+          "LVT Teil 2 (Athletik): Turnerische Norm (Bodenkomplexübung), Athletische Norm: Kraft/Beweglichkeit/Grundausdauer"
+        ]
+      },
+      {
+        "title": "LVT Mindestpunktzahlen",
+        "type": "warning",
+        "content": [
+          "AK 17: 66 Punkte (= 60%) (ohne Bodenkomplexübung)",
+          "Für Beweglichkeit, Kraft und Grundlagenausdauer"
+        ]
+      },
+      {
+        "title": "Medizinische Verpflichtungen",
+        "type": "warning",
+        "content": [
+          "Kaderathlet*innen sind verpflichtet, sich jährlich einer sportärztlichen Tauglichkeitsuntersuchung zu unterziehen.",
+          "Alle Verletzungen sind an den/die jeweilige*n Landestrainer*in zu melden.",
+          "Bei Verletzungen soll nach Möglichkeit an Trainingsmaßnahmen teilgenommen werden."
+        ]
+      },
+      {
+        "title": "Offizielle Dokumente",
+        "type": "info",
+        "content": [
+          "📄 Bundeseinheitliche Landeskaderkriterien (PDF)",
+          "📊 LK-Kriterien Schaubild (PDF)",
+          "🏋️ LVT-Kraft & Beweglichkeit Übungen (PDF)"
+        ]
+      }
+    ]
+  }
+}
