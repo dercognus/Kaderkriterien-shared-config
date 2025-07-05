@@ -1,0 +1,146 @@
+{
+  "ak8_mixed": {
+    "elements": [
+      {
+        "element": "10R 11/  S 00/ 00° 40°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak9_mixed": {
+    "elements": [
+      {
+        "element": "10/B 10/ 40° 41° 00< 40<",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak10_mixed": {
+    "elements": [
+      {
+        "element": "10/B 10/ 40° 41° 00< 40<",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak11_mixed": {
+    "elements": [
+      {
+        "element": "40/ 41° 40< 41/ 40° 02/",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak12_w": {
+    "elements": [
+      {
+        "element": "40/ 41/  42/  40°  41°  800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak12_m": {
+    "elements": [
+      {
+        "element": "40/ 41/  42/  40°  41°  800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak13_w": {
+    "elements": [
+      {
+        "element": "40/ 41/  42/  40°  41°  800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  }, 
+  "ak13_m": {
+    "elements": [
+      {
+        "element": "40/ 41/  42/  40°  41°  800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak14_w": {
+    "elements": [
+      {
+        "element": "801< 40< 801° 40/ 41/ 800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak14_m": {
+    "elements": [
+      {
+        "element": "801< 40< 801° 40/ 41/ 800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak15_w": {
+    "elements": [
+      {
+        "element": "801< 40< 801° 40/ 41/ 800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak15_m": {
+    "elements": [
+      {
+        "element": "801< 40< 801° 40/ 41/ 800°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak16_w": {
+    "elements": [
+      {
+        "element": "803< 40< 801< 40/ 41/ 800<",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak17_w": {
+    "elements": [
+      {
+        "element": "803< 40< 801< 40/ 41/ 800<",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak16_m": {
+    "elements": [
+      {
+        "element": "803< 40< 801< 40/ 41/ 811°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  },
+  "ak17_m": {
+    "elements": [
+      {
+        "element": "803< 40< 801< 40/ 41/ 811°",
+        "ausgangswert": 30,
+        "abzug": "0/1/2/3/4 je Sprung max. 24(28)"
+      }
+    ]
+  }
+}

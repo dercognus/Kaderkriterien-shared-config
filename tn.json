@@ -1,0 +1,1068 @@
+{
+  "ak8_mixed": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 3,
+      "eigeneAK": 3,
+      "tiefereAK": null
+    },
+    "elements": [
+      {
+        "element": "2/1 Standsprungschraube",
+        "kuerzel": "04/",
+        "ausgangswert": 4,
+        "abzug": "0-2"
+      },
+      {
+        "element": "Salto c vw c",
+        "kuerzel": "40° vw",
+        "ausgangswert": 5,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto c zum Sitz rw",
+        "kuerzel": "40° S rw",
+        "ausgangswert": 5,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto c rw",
+        "kuerzel": "40° rw",
+        "ausgangswert": 5,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto b vw",
+        "kuerzel": "40< vw",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto b rw",
+        "kuerzel": "40< rw",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      }
+    ]
+  },
+  "ak9_mixed": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 3,
+      "eigeneAK": 2,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Salto b zum Sitz rw",
+        "kuerzel": "40< S rw",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "3/4 c rw zum Bauch",
+        "kuerzel": "30° B",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "3/4 b rw zum Bauch",
+        "kuerzel": "30< B",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "3/4 a vw zum Rücken",
+        "kuerzel": "30/R",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "1 1/4 Salto zum Rücken c rw",
+        "kuerzel": "50°R",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Barani c",
+        "kuerzel": "41°",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Barani b",
+        "kuerzel": "41<",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto a rw",
+        "kuerzel": "40/",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto a vw",
+        "kuerzel": "40/",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      }
+    ]
+  },
+  "ak10_mixed": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 3,
+      "eigeneAK": 2,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Salto b zum Sitz rw",
+        "kuerzel": "40< S rw",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "3/4 c rw zum Bauch",
+        "kuerzel": "30° B",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "3/4 b rw zum Bauch",
+        "kuerzel": "30< B",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "3/4 a vw zum Rücken",
+        "kuerzel": "30/R",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "1 1/4 Salto zum Rücken c rw",
+        "kuerzel": "50°R",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Barani c",
+        "kuerzel": "41°",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Barani b",
+        "kuerzel": "41<",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto a rw",
+        "kuerzel": "40/",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Salto a vw",
+        "kuerzel": "40/",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      }
+    ]
+  },
+  "ak11_mixed": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 3,
+      "eigeneAK": 2,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "3/4 a rw zum Bauch",
+        "kuerzel": "30/B",
+        "ausgangswert": 3,
+        "abzug": "0-1"
+      },
+      {
+        "element": "Cody c",
+        "kuerzel": "50°",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Barani a",
+        "kuerzel": "41/",
+        "ausgangswert": 6,
+        "abzug": "0-4"
+      },
+      {
+        "element": "Babyfliffis c",
+        "kuerzel": "51°",
+        "ausgangswert": 7,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyfliffis b",
+        "kuerzel": "51<",
+        "ausgangswert": 7,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyfliffis a",
+        "kuerzel": "51/",
+        "ausgangswert": 7,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Cody b",
+        "kuerzel": "50<",
+        "ausgangswert": 7,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Schraubensalto",
+        "kuerzel": "42/",
+        "ausgangswert": 7,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 3/4 c vw R",
+        "kuerzel": "700°",
+        "ausgangswert": 8,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 3/4 b vw R",
+        "kuerzel": "700<",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelsalto c rw",
+        "kuerzel": "800°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak12_w": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Doppelsalto b rw",
+        "kuerzel": "800<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Rudolf",
+        "kuerzel": "43/",
+        "ausgangswert": 8,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyrudi",
+        "kuerzel": "53/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelschraube rw",
+        "kuerzel": "44/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh c",
+        "kuerzel": "810°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh b",
+        "kuerzel": "810<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis c",
+        "kuerzel": "801°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis b",
+        "kuerzel": "801<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak13_w": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Doppelsalto b rw",
+        "kuerzel": "800<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Rudolf",
+        "kuerzel": "43/",
+        "ausgangswert": 8,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyrudi",
+        "kuerzel": "53/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelschraube rw",
+        "kuerzel": "44/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh c",
+        "kuerzel": "810°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh b",
+        "kuerzel": "810<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis c",
+        "kuerzel": "801°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis b",
+        "kuerzel": "801<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak14_w": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus c",
+        "kuerzel": "811°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi c",
+        "kuerzel": "803°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus c",
+        "kuerzel": "821°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus c",
+        "kuerzel": "820°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus c",
+        "kuerzel": "802°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak15_w": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus c",
+        "kuerzel": "811°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi c",
+        "kuerzel": "803°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus c",
+        "kuerzel": "821°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus c",
+        "kuerzel": "820°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus c",
+        "kuerzel": "802°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak16_w": {
+    "rules": {
+      "pflicht": 4,
+      "soll": 6,
+      "eigeneAK": 4,
+      "tiefereAK": 2
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus b",
+        "kuerzel": "811<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi b",
+        "kuerzel": "803<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus b",
+        "kuerzel": "821<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelsalto a rw",
+        "kuerzel": "800/",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage c",
+        "kuerzel": "901°",
+        "ausgangswert": 12,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus c",
+        "kuerzel": "822°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus b",
+        "kuerzel": "820<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 11/2 aus c",
+        "kuerzel": "813°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus b",
+        "kuerzel": "802<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus a",
+        "kuerzel": "820/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus a",
+        "kuerzel": "802/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis c",
+        "kuerzel": "12001°",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak17_w": {
+    "rules": {
+      "pflicht": 4,
+      "soll": 6,
+      "eigeneAK": 4,
+      "tiefereAK": 2
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus b",
+        "kuerzel": "811<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi b",
+        "kuerzel": "803<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus b",
+        "kuerzel": "821<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelsalto a rw",
+        "kuerzel": "800/",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage c",
+        "kuerzel": "901°",
+        "ausgangswert": 12,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus c",
+        "kuerzel": "822°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus b",
+        "kuerzel": "820<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 11/2 aus c",
+        "kuerzel": "813°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus b",
+        "kuerzel": "802<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus a",
+        "kuerzel": "820/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus a",
+        "kuerzel": "802/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis c",
+        "kuerzel": "12001°",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak12_m": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Doppelsalto b rw",
+        "kuerzel": "800<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Rudolf",
+        "kuerzel": "43/",
+        "ausgangswert": 8,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyrudi",
+        "kuerzel": "53/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelschraube rw",
+        "kuerzel": "44/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh c",
+        "kuerzel": "810°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh b",
+        "kuerzel": "810<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis c",
+        "kuerzel": "801°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis b",
+        "kuerzel": "801<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi c",
+        "kuerzel": "803°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus c",
+        "kuerzel": "820°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus c",
+        "kuerzel": "802°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak13_m": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "Doppelsalto b rw",
+        "kuerzel": "800<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Rudolf",
+        "kuerzel": "43/",
+        "ausgangswert": 8,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Babyrudi",
+        "kuerzel": "53/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelschraube rw",
+        "kuerzel": "44/",
+        "ausgangswert": 9,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh c",
+        "kuerzel": "810°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis früh b",
+        "kuerzel": "810<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis c",
+        "kuerzel": "801°",
+        "ausgangswert": 11,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis b",
+        "kuerzel": "801<",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi c",
+        "kuerzel": "803°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus c",
+        "kuerzel": "820°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus c",
+        "kuerzel": "802°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak14_m": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus c",
+        "kuerzel": "811°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 1/2 aus b",
+        "kuerzel": "811<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi b",
+        "kuerzel": "803<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus c",
+        "kuerzel": "821°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelsalto a rw",
+        "kuerzel": "800/",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage c",
+        "kuerzel": "901°",
+        "ausgangswert": 12,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus c",
+        "kuerzel": "822°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak15_m": {
+    "rules": {
+      "pflicht": 2,
+      "soll": 4,
+      "eigeneAK": 3,
+      "tiefereAK": 1
+    },
+    "elements": [
+      {
+        "element": "1/2 ein 1/2 aus c",
+        "kuerzel": "811°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 1/2 aus b",
+        "kuerzel": "811<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis Rudi b",
+        "kuerzel": "803<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1/2 aus c",
+        "kuerzel": "821°",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Doppelsalto a rw",
+        "kuerzel": "800/",
+        "ausgangswert": 13,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage c",
+        "kuerzel": "901°",
+        "ausgangswert": 12,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus c",
+        "kuerzel": "822°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak16_m": {
+    "rules": {
+      "pflicht": 4,
+      "soll": 6,
+      "eigeneAK": 4,
+      "tiefereAK": 2
+    },
+    "elements": [
+      {
+        "element": "1 ein 1/2 aus b",
+        "kuerzel": "821<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus b",
+        "kuerzel": "820<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 11/2 aus c",
+        "kuerzel": "813°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus b",
+        "kuerzel": "802<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus a",
+        "kuerzel": "820/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus a",
+        "kuerzel": "802/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis c",
+        "kuerzel": "12001°",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis b",
+        "kuerzel": "12001<",
+        "ausgangswert": 20,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffisrandi c",
+        "kuerzel": "805°",
+        "ausgangswert": 16,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 1/2 ein 1/2 aus b",
+        "kuerzel": "831<",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 2 aus c",
+        "kuerzel": "824°",
+        "ausgangswert": 19,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus a",
+        "kuerzel": "822/",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffisrandi b",
+        "kuerzel": "805<",
+        "ausgangswert": 18,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 2 aus a",
+        "kuerzel": "824/",
+        "ausgangswert": 21,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage b",
+        "kuerzel": "901<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      }
+    ]
+  },
+  "ak17_m": {
+    "rules": {
+      "pflicht": 4,
+      "soll": 6,
+      "eigeneAK": 4,
+      "tiefereAK": 2
+    },
+    "elements": [
+      {
+        "element": "1 ein 1/2 aus b",
+        "kuerzel": "821<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus b",
+        "kuerzel": "820<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1/2 ein 11/2 aus c",
+        "kuerzel": "813°",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus b",
+        "kuerzel": "802<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 0 aus a",
+        "kuerzel": "820/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "0 ein 1 aus a",
+        "kuerzel": "802/",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis c",
+        "kuerzel": "12001°",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Triffis b",
+        "kuerzel": "12001<",
+        "ausgangswert": 20,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffisrandi c",
+        "kuerzel": "805°",
+        "ausgangswert": 16,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 1/2 ein 1/2 aus b",
+        "kuerzel": "831<",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 2 aus c",
+        "kuerzel": "824°",
+        "ausgangswert": 19,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 1 aus a",
+        "kuerzel": "822/",
+        "ausgangswert": 17,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffisrandi b",
+        "kuerzel": "805<",
+        "ausgangswert": 18,
+        "abzug": "0-6"
+      },
+      {
+        "element": "1 ein 2 aus a",
+        "kuerzel": "824/",
+        "ausgangswert": 21,
+        "abzug": "0-6"
+      },
+      {
+        "element": "Fliffis aus der Rückenlage b",
+        "kuerzel": "901<",
+        "ausgangswert": 15,
+        "abzug": "0-6"
+      }
+    ]
+  }
+}
