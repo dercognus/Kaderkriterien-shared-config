@@ -1,0 +1,255 @@
+{
+  "ak8_mixed": {
+    "elements": [
+      { "nr": 1, "name": "Rolle vorwärts", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Bückstand zum Liegestütz", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Stützschraube links, rechts", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Grätschwinkelstand", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Kopfstand", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Schiffchenposition", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Drehung links, rechts", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Kerze ohne Arme", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abbücken, Strecken über Kerze", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Rolle --> Stand, Strecksprung 1/2 Drehung", "wert": 2.5, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Rolle rückwärts", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 12, "name": "Vorspreizen, Rad", "wert": 3.5, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK8 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak9_mixed": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Grätschwinkelsprung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstandhüpfer, Abrollen Hockstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Absprung gehockt zum Handstand", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "1/2 Drehung, abrollen in den Stand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Vorspreizen, Beistellschritt, Strecksprung 1/1 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage andere Seite", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Vorspreizen, Rad", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Vorspreizen, Rad, andere Richtung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK9, AK10, AK11 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak10_mixed": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Grätschwinkelsprung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstandhüpfer, Abrollen Hockstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Absprung gehockt zum Handstand", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "1/2 Drehung, abrollen in den Stand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Vorspreizen, Beistellschritt, Strecksprung 1/1 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage andere Seite", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Vorspreizen, Rad", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Vorspreizen, Rad, andere Richtung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK9, AK10, AK11 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak11_mixed": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Grätschwinkelsprung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstandhüpfer, Abrollen Hockstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Absprung gehockt zum Handstand", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "1/2 Drehung, abrollen in den Stand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Vorspreizen, Beistellschritt, Strecksprung 1/1 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage andere Seite", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 4, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Vorspreizen, Rad", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Vorspreizen, Rad, andere Richtung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK9, AK10, AK11 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak12_m": {
+    "elements": [
+      { "nr": 1, "name": "Salto vorwärts mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Handstand, 1/1 Drehung, Abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Vorspreizen, Handstandhüpfer, Abrollen Grätschsitz", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Briefmarke, Rückgrätschen --> Bauchlage", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Kniestand, Abdrücken gebückt --> Handstand, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig rechts auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig links auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Strecksprung 1/2 Drehung", "wert": 1, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Sprungrolle mit Anlauf", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 12, "name": "Strecksprung 1/1 Drehung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK12, AK13 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak12_w": {
+    "elements": [
+      { "nr": 1, "name": "Salto vorwärts mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Handstand, 1/1 Drehung, Abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Vorspreizen, Handstandhüpfer, Abrollen Grätschsitz", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Briefmarke, Rückgrätschen --> Bauchlage", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Kniestand, Abdrücken gebückt --> Handstand, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig rechts auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig links auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Strecksprung 1/2 Drehung", "wert": 1, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Sprungrolle mit Anlauf", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 12, "name": "Strecksprung 1/1 Drehung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK12, AK13 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak13_m": {
+    "elements": [
+      { "nr": 1, "name": "Salto vorwärts mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Handstand, 1/1 Drehung, Abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Vorspreizen, Handstandhüpfer, Abrollen Grätschsitz", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Briefmarke, Rückgrätschen --> Bauchlage", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Kniestand, Abdrücken gebückt --> Handstand, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig rechts auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig links auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Strecksprung 1/2 Drehung", "wert": 1, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Sprungrolle mit Anlauf", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 12, "name": "Strecksprung 1/1 Drehung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK12, AK13 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak13_w": {
+    "elements": [
+      { "nr": 1, "name": "Salto vorwärts mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "Handstand, 1/1 Drehung, Abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "Vorspreizen, Handstandhüpfer, Abrollen Grätschsitz", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Briefmarke, Rückgrätschen --> Bauchlage", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Kniestand, Abdrücken gebückt --> Handstand, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig rechts auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "Vorspreizen, Standwaage --> abrollen, einbeinig links auf", "wert": 3.5, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Rolle rückwärts durch Handstand", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Strecksprung 1/2 Drehung", "wert": 1, "kuerzel": "", "note": "" },
+      { "nr": 11, "name": "Sprungrolle mit Anlauf", "wert": 2, "kuerzel": "", "note": "" },
+      { "nr": 12, "name": "Strecksprung 1/1 Drehung", "wert": 2, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK12, AK13 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak14_m": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak14_w": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak15_m": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak15_w": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak16_m": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak16_w": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16 - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak17_m": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16, AK17+ - Alle Elemente sind für beide Geschlechter identisch"
+  },
+  "ak17_w": {
+    "elements": [
+      { "nr": 1, "name": "Flugrolle mit Überstrecken mit Anlauf", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 2, "name": "--> Strecksprung, Salto vorwärts gehockt", "wert": 4.5, "kuerzel": "", "note": "" },
+      { "nr": 3, "name": "Vorspreizen, Handstand mit 1/1 Drehung, abrollen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 4, "name": "--> Aufstehen mit gestreckten Beinen", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 5, "name": "Vorspreizen, Bestellschritt, Strecksprung 3/2 Drehung", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 6, "name": "Salto rückwärts gehockt", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 7, "name": "Handstützüberschlag", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 8, "name": "--> Ansprung Schrittstellung, Handstand mit zwei Hüpfern", "wert": 3, "kuerzel": "", "note": "" },
+      { "nr": 9, "name": "Abrollen --> Strecksprung 1/2 Drehung", "wert": 1.5, "kuerzel": "", "note": "" },
+      { "nr": 10, "name": "Salto vorwärts gebückt mit Anlauf", "wert": 3, "kuerzel": "", "note": "" }
+    ],
+    "description": "Bodenkomplexübung für AK14, AK15, AK16, AK17+ - Alle Elemente sind für beide Geschlechter identisch"
+  }
+}
