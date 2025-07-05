@@ -1,0 +1,498 @@
+{
+  "ak8_mixed": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L3 S4 (ca. 3,5 min)",
+        "2": "L3 S8 (ca. 4 min)",
+        "3": "L4 S4 (ca. 4,5 min)",
+        "4": "L4 S9 (ca. 5 min)",
+        "5": "L5 S5 (ca. 5,5 min)",
+        "6": "L5 S9 (ca. 6 min)",
+        "7": "L6 S5 (ca. 6,5 min)",
+        "8": "L6 S10 (ca. 7 min)",
+        "9": "L7 S5 (ca. 7,5 min)",
+        "10": "L7 S10 (ca. 8 min)"
+      },
+      "requirementsFemale": {
+        "1": "L3 S4 (ca. 3,5 min)",
+        "2": "L3 S8 (ca. 4 min)",
+        "3": "L4 S4 (ca. 4,5 min)",
+        "4": "L4 S9 (ca. 5 min)",
+        "5": "L5 S5 (ca. 5,5 min)",
+        "6": "L5 S9 (ca. 6 min)",
+        "7": "L6 S5 (ca. 6,5 min)",
+        "8": "L6 S10 (ca. 7 min)",
+        "9": "L7 S5 (ca. 7,5 min)",
+        "10": "L7 S10 (ca. 8 min)"
+      }
+    }
+  },
+  "ak9_mixed": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L4 S4",
+        "2": "L4 S9",
+        "3": "L5 S5",
+        "4": "L5 S9",
+        "5": "L6 S5",
+        "6": "L6 S10",
+        "7": "L7 S5",
+        "8": "L7 S10",
+        "9": "L8 S5 (ca. 8,5 min)",
+        "10": "L8 S11 (ca. 9 min)"
+      },
+      "requirementsFemale": {
+        "1": "L3 S8",
+        "2": "L4 S4",
+        "3": "L4 S9",
+        "4": "L5 S5",
+        "5": "L5 S9",
+        "6": "L6 S5",
+        "7": "L6 S10",
+        "8": "L7 S5",
+        "9": "L7 S10",
+        "10": "L8 S5 (ca. 8,5 min)"
+      }
+    }
+  },
+  "ak10_mixed": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L4 S4",
+        "2": "L4 S9",
+        "3": "L5 S5",
+        "4": "L5 S9",
+        "5": "L6 S5",
+        "6": "L6 S10",
+        "7": "L7 S5",
+        "8": "L7 S10",
+        "9": "L8 S5 (ca. 8,5 min)",
+        "10": "L8 S11 (ca. 9 min)"
+      },
+      "requirementsFemale": {
+        "1": "L3 S8",
+        "2": "L4 S4",
+        "3": "L4 S9",
+        "4": "L5 S5",
+        "5": "L5 S9",
+        "6": "L6 S5",
+        "7": "L6 S10",
+        "8": "L7 S5",
+        "9": "L7 S10",
+        "10": "L8 S5 (ca. 8,5 min)"
+      }
+    }
+  },
+  "ak11_mixed": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L4 S4",
+        "2": "L4 S9",
+        "3": "L5 S5",
+        "4": "L5 S9",
+        "5": "L6 S5",
+        "6": "L6 S10",
+        "7": "L7 S5",
+        "8": "L7 S10",
+        "9": "L8 S5 (ca. 8,5 min)",
+        "10": "L8 S11 (ca. 9 min)"
+      },
+      "requirementsFemale": {
+        "1": "L3 S8",
+        "2": "L4 S4",
+        "3": "L4 S9",
+        "4": "L5 S5",
+        "5": "L5 S9",
+        "6": "L6 S5",
+        "7": "L6 S10",
+        "8": "L7 S5",
+        "9": "L7 S10",
+        "10": "L8 S5 (ca. 8,5 min)"
+      }
+    }
+  },
+  "ak12_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L4 S9",
+        "2": "L5 S5",
+        "3": "L5 S9",
+        "4": "L6 S5",
+        "5": "L6 S10",
+        "6": "L7 S5",
+        "7": "L7 S10",
+        "8": "L8 S5",
+        "9": "L8 S11 (ca. 9 min)",
+        "10": "L9 S5 (ca. 9,5 min)"
+      }
+    }
+  },
+  "ak12_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L6 S5",
+        "2": "L6 S10",
+        "3": "L7 S5",
+        "4": "L7 S10",
+        "5": "L8 S5",
+        "6": "L8 S11",
+        "7": "L9 S5 (ca. 9,5 min)",
+        "8": "L9 S11 (ca. 10 min)",
+        "9": "L10 S5 (ca.10,5 min)",
+        "10": "L10 S11 (ca. 11 min)"
+      }
+    }
+  },
+  "ak13_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L4 S9",
+        "2": "L5 S5",
+        "3": "L5 S9",
+        "4": "L6 S5",
+        "5": "L6 S10",
+        "6": "L7 S5",
+        "7": "L7 S10",
+        "8": "L8 S5",
+        "9": "L8 S11 (ca. 9 min)",
+        "10": "L9 S5 (ca. 9,5 min)"
+      }
+    }
+  },
+  "ak13_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L6 S5",
+        "2": "L6 S10",
+        "3": "L7 S5",
+        "4": "L7 S10",
+        "5": "L8 S5",
+        "6": "L8 S11",
+        "7": "L9 S5 (ca. 9,5 min)",
+        "8": "L9 S11 (ca. 10 min)",
+        "9": "L10 S5 (ca.10,5 min)",
+        "10": "L10 S11 (ca. 11 min)"
+      }
+    }
+  },
+  "ak14_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L5 S5",
+        "2": "L5 S9",
+        "3": "L6 S5",
+        "4": "L6 S10",
+        "5": "L7 S5",
+        "6": "L7 S10",
+        "7": "L8 S5",
+        "8": "L8 S11",
+        "9": "L9 S5",
+        "10": "L9 S11 (ca. 10 min)"
+      }
+    }
+  },
+  "ak14_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L7 S5",
+        "2": "L7 S10",
+        "3": "L8 S5",
+        "4": "L8 S11",
+        "5": "L9 S5",
+        "6": "L9 S11",
+        "7": "L10 S5",
+        "8": "L10 S11",
+        "9": "L11 S6 (ca. 11,5 min)",
+        "10": "L11 S 12 (ca. 12min)"
+      }
+    }
+  },
+  "ak15_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L5 S5",
+        "2": "L5 S9",
+        "3": "L6 S5",
+        "4": "L6 S10",
+        "5": "L7 S5",
+        "6": "L7 S10",
+        "7": "L8 S5",
+        "8": "L8 S11",
+        "9": "L9 S5",
+        "10": "L9 S11 (ca. 10 min)"
+      }
+    }
+  },
+  "ak15_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L7 S5",
+        "2": "L7 S10",
+        "3": "L8 S5",
+        "4": "L8 S11",
+        "5": "L9 S5",
+        "6": "L9 S11",
+        "7": "L10 S5",
+        "8": "L10 S11",
+        "9": "L11 S6 (ca. 11,5 min)",
+        "10": "L11 S 12 (ca. 12min)"
+      }
+    }
+  },
+  "ak16_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L5 S5",
+        "2": "L5 S9",
+        "3": "L6 S5",
+        "4": "L6 S10",
+        "5": "L7 S5",
+        "6": "L7 S10",
+        "7": "L8 S5",
+        "8": "L8 S11",
+        "9": "L9 S5",
+        "10": "L9 S11 (ca. 10 min)"
+      }
+    }
+  },
+  "ak16_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L7 S5",
+        "2": "L7 S10",
+        "3": "L8 S5",
+        "4": "L8 S11",
+        "5": "L9 S5",
+        "6": "L9 S11",
+        "7": "L10 S5",
+        "8": "L10 S11",
+        "9": "L11 S6 (ca. 11,5 min)",
+        "10": "L11 S 12 (ca. 12min)"
+      }
+    }
+  },
+  "ak17_w": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsFemale": {
+        "1": "L6 S5",
+        "2": "L6 S10",
+        "3": "L7 S5",
+        "4": "L7 S10",
+        "5": "L8 S5",
+        "6": "L8 S11",
+        "7": "L9 S5",
+        "8": "L9 S11",
+        "9": "L10 S5 (ca.10,5 min)",
+        "10": "L10 S11 (ca.11 min)"
+      }
+    }
+  },
+  "ak17_m": {
+    "shuttleRun": {
+      "testName": "Shuttle-Run Test",
+      "description": "Die Aufgabe des Tests besteht darin, zwischen zwei Linien mit 20 m Entfernung hin und her zu laufen. Die Laufgeschwindigkeit wird dabei durch Intervalle zwischen zwei Tonsignalen (Audio-Datei: http://www.bleeptests.com/) angegeben und wird jede Minute um 0,5 km/h gesteigert.",
+      "rules": [
+        "Die Läufer starten hinter der Linie. Der Test kann gleichzeitig von mehreren absolviert werden.",
+        "Jeder Läufer sollte zirka eine Bahn von 1m Breite zur Verfügung haben.",
+        "Sie laufen in geraden Bahnen zur gegenüberliegenden 20m-Linie (Wendepunkt).",
+        "Dabei ist die Linie (Wendepunkt) mit mindestens einem Fuß zu übertreten.",
+        "Sind die Läufer schneller als das Tonsignal, müssen sie mit mindestens einem Fuß hinter der Linie warten bis das Tonsignal ertönt.",
+        "Erreicht ein Läufer die Wendelinie nicht bevor das Tonsignal ertönt, so muss er noch bis zur Wendelinie weiterlaufen (und diese mit mindestens einem Fuß übertreten) bevor er ebenfalls zurücklaufen darf.",
+        "Der Test ist beendet, wenn ein Läufer aufgibt oder zwei Mal hintereinander die Wendelinie nicht mit dem Tonsignal übertreten hat.",
+        "Das Testergebnis ist die letzte Stufe, die in der vorgegebenen Zeit noch erreicht werden konnte (Beispiel: Level 7 Shuttle 3; notiert wird L7 S3) und wird mit einer Genauigkeit von halben Stufen (Level) jeweils abgerundet, angegeben."
+      ],
+      "requirementsMale": {
+        "1": "L8 S11",
+        "2": "L9 S5",
+        "3": "L9 S11",
+        "4": "L10 S5",
+        "5": "L10 S11",
+        "6": "L11 S6",
+        "7": "L11 S 12",
+        "8": "L12 S6 (ca. 12,5 min)",
+        "9": "L12 S12 (ca. 13 min)",
+        "10": "L13 S6 (ca. 13,5 min)"
+      }
+    }
+  }
+}
