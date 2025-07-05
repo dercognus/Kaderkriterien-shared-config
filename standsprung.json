@@ -1,0 +1,70 @@
+{
+  "ak8_mixed": {
+    "requirementSeconds": 11.5,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak9_mixed": {
+    "requirementSeconds": 12,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak10_mixed": {
+    "requirementSeconds": 12.5,
+    "requirementSecondsM": 12.8,
+    "requirementSecondsW": 12.5,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak11_mixed": {
+    "requirementSeconds": 13,
+    "requirementSecondsM": 13.3,
+    "requirementSecondsW": 13.0,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak12_w": {
+    "requirementSeconds": 13.8,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak12_m": {
+    "requirementSeconds": 13.8,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak13_w": {
+    "requirementSeconds": 14,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak13_m": {
+    "requirementSeconds": 14.3,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak14_w": {
+    "requirementSeconds": 14.5,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak14_m": {
+    "requirementSeconds": 14.8,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak15_w": {
+    "requirementSeconds": 14.8,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak15_m": {
+    "requirementSeconds": 15.3,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak16_w": {
+    "requirementSeconds": 14.9,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak16_m": {
+    "requirementSeconds": 15.8,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak17_w": {
+    "requirementSeconds": 15,
+    "description": "Mindestzeit für Standsprunghöhe"
+  },
+  "ak17_m": {
+    "requirementSeconds": 16.1,
+    "description": "Mindestzeit für Standsprunghöhe"
+  }
+}
