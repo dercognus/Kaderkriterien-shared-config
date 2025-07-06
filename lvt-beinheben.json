@@ -1,0 +1,538 @@
+{
+  "ak8_mixed": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Hang Knie an die Brust, dann Beine strecken",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Knie-zur-Brust-Ausführung für AK 8",
+      "altersgruppe": "8",
+      "ausgangsposition": "Hang an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Hang heben der Knie an die Brust und strecken Beine nach oben bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Knie zunächst an die Brust heben",
+        "Dann Beine nach oben strecken",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen halten",
+        "Füße müssen Griffsprosse berühren"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Ausführung: Knie zur Brust, dann Beine strecken",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung ohne Schwung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak8-knie-brust.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak9_mixed": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Hang gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Hang-Ausführung für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Hang an der Sprossenwand mit gestreckten Armen. 10 cm Matte zwischen Fersen und Sprossenwand. Der Rücken liegt an der Sprossenwand an.",
+      "aktion": "Aus dem Hang die gestreckten Beine heben, bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen. Die Beine müssen unten gestoppt werden, sodass die Folgeübung ohne Schwung erfolgt. Der Rücken liegt an der Sprossenwand an. (Kein Hohlkreuz)",
+      "besonderheiten": [
+        "Gestreckte Beine während gesamter Bewegung",
+        "10 cm Matte zwischen Fersen und Sprossenwand",
+        "Beine unten stoppen - kein Schwung",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Hohlkreuz"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Schwung verwenden"
+      ],
+      "fehlerhinweise": [
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Unten vollständig stoppen",
+        "Rücken an Sprossenwand",
+        "Kein Hohlkreuz"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak9-11-hang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak10_mixed": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Hang gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Hang-Ausführung für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Hang an der Sprossenwand mit gestreckten Armen. 10 cm Matte zwischen Fersen und Sprossenwand. Der Rücken liegt an der Sprossenwand an.",
+      "aktion": "Aus dem Hang die gestreckten Beine heben, bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen. Die Beine müssen unten gestoppt werden, sodass die Folgeübung ohne Schwung erfolgt. Der Rücken liegt an der Sprossenwand an. (Kein Hohlkreuz)",
+      "besonderheiten": [
+        "Gestreckte Beine während gesamter Bewegung",
+        "10 cm Matte zwischen Fersen und Sprossenwand",
+        "Beine unten stoppen - kein Schwung",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Hohlkreuz"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Schwung verwenden"
+      ],
+      "fehlerhinweise": [
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Unten vollständig stoppen",
+        "Rücken an Sprossenwand",
+        "Kein Hohlkreuz"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak9-11-hang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak11_mixed": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Hang gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Hang-Ausführung für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Hang an der Sprossenwand mit gestreckten Armen. 10 cm Matte zwischen Fersen und Sprossenwand. Der Rücken liegt an der Sprossenwand an.",
+      "aktion": "Aus dem Hang die gestreckten Beine heben, bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen. Die Beine müssen unten gestoppt werden, sodass die Folgeübung ohne Schwung erfolgt. Der Rücken liegt an der Sprossenwand an. (Kein Hohlkreuz)",
+      "besonderheiten": [
+        "Gestreckte Beine während gesamter Bewegung",
+        "10 cm Matte zwischen Fersen und Sprossenwand",
+        "Beine unten stoppen - kein Schwung",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Hohlkreuz"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Rücken an Sprossenwand anliegend",
+        "Kein Schwung verwenden"
+      ],
+      "fehlerhinweise": [
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Unten vollständig stoppen",
+        "Rücken an Sprossenwand",
+        "Kein Hohlkreuz"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak9-11-hang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_m": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_w": {
+    "beinheben": {
+      "name": "Beinheben",
+      "requirement": "Aus dem Winkelhang (90°) gestreckte Beine heben bis Füße Griffsprosse berühren",
+      "description": "Kraftübung für Bauch- und Hüftbeugemuskulatur",
+      "note": "Winkelhang-Ausführung für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Winkelhang (90°) an der Sprossenwand mit gestreckten Armen.",
+      "aktion": "Aus dem Winkelhang (90°) heben der gestreckten Beine bis die Füße die Griffsprosse berühren. Die Beine sind während der kompletten Übungsausführung geschlossen.",
+      "besonderheiten": [
+        "Ausgangsposition: Winkelhang 90°",
+        "Gestreckte Beine während gesamter Bewegung",
+        "Füße müssen Griffsprosse berühren",
+        "Beine während gesamter Ausführung geschlossen"
+      ],
+      "wertung": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Beinheben",
+        "Beine während der gesamten Bewegung geschlossen und gestreckt halten",
+        "Winkelhang 90° beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Winkelhang 90° einhalten",
+        "Beine müssen gestreckt bleiben",
+        "Füße müssen Griffsprosse berühren",
+        "Beine geschlossen halten",
+        "Kontrollierte Bewegung"
+      ],
+      "bildPfad": "/images/kraft/beinheben-ak12plus-winkelhang.jpg",
+      "einheit": "anzahl"
+    }
+  }
+}
