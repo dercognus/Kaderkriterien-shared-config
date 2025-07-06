@@ -1,0 +1,554 @@
+{
+  "ak8_mixed": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Handstandstehen bäuchlings an der Wand für max. 60 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "An der Wand für AK 8",
+      "altersgruppe": "8",
+      "ausgangsposition": "Handstand bäuchlings an der Wand. Ausschließlich Zehen und Nase berühren die Wand.",
+      "aktion": "Handstandstehen bäuchlings an der Wand. Ausschließlich Zehen und Nase berühren die Wand. Maximale Körperspannung während der kompletten Übung.",
+      "besonderheiten": [
+        "Bäuchlings an der Wand",
+        "Nur Zehen und Nase berühren die Wand",
+        "Maximale Körperspannung erforderlich",
+        "Zeitnahme ab Erreichen der Handstandposition"
+      ],
+      "wertung": [40, 45, 50, 55, 60],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 60,
+      "hinweise": [
+        "Zeit: 60 Sekunden maximal",
+        "Gezählt werden die Sekunden ab Erreichen der Handstandposition",
+        "Ausschließlich Zehen und Nase berühren die Wand",
+        "Maximale Körperspannung während der kompletten Übung"
+      ],
+      "fehlerhinweise": [
+        "Nur Zehen und Nase dürfen die Wand berühren",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Position wird gestoppt"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-ak8-wand.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak9_mixed": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Handstandstehen im Quadrat (1m x 1m) für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "Im Quadrat für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Handstand innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt.",
+      "besonderheiten": [
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Körperspannung muss beibehalten werden",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Gezählt werden die Sekunden ab Erreichen der Handstandposition",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak10_mixed": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Handstandstehen im Quadrat (1m x 1m) für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "Im Quadrat für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Handstand innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt.",
+      "besonderheiten": [
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Körperspannung muss beibehalten werden",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Gezählt werden die Sekunden ab Erreichen der Handstandposition",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak11_mixed": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Handstandstehen im Quadrat (1m x 1m) für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "Im Quadrat für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Handstand innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt.",
+      "besonderheiten": [
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Körperspannung muss beibehalten werden",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Gezählt werden die Sekunden ab Erreichen der Handstandposition",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak12_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak12_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak13_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak13_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak14_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak14_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Eine Handstanddrehung + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "1 Drehung + Quadrat für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Handstand für Drehung, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Eine Handstanddrehung mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehung.",
+      "besonderheiten": [
+        "Eine Handstanddrehung vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehung",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Drehung muss vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak15_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak15_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak16_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak16_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak17_m": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak17_w": {
+    "handstandstehen": {
+      "name": "Handstandstehen",
+      "requirement": "Drei Handstanddrehungen + Handstandstehen im Quadrat für max. 30 Sekunden",
+      "description": "Kraftübung für Arm-, Schulter- und Rumpfmuskulatur",
+      "note": "3 Drehungen + Quadrat für AK 15-20",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Handstand für Drehungen, dann innerhalb eines Quadrates (1m x 1m).",
+      "aktion": "Drei Handstanddrehungen mit anschließendem Handstandstehen innerhalb eines Quadrates (1m x 1m) unter Beibehaltung der Körperspannung. Kleine Schritte im Handstand sind erlaubt. Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen.",
+      "besonderheiten": [
+        "Drei Handstanddrehungen vor dem Stehen",
+        "Innerhalb eines 1m x 1m Quadrates",
+        "Zeitnahme erst nach Beendigung aller Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "wertung": [10, 15, 20, 25, 30],
+      "punkte": [2, 4, 6, 8, 10],
+      "maxZeit": 30,
+      "hinweise": [
+        "Zeit: 30 Sekunden maximal",
+        "Beginn der Zeitnahme erfolgt nach Beendigung der Drehungen",
+        "Kleine Schritte im Handstand sind erlaubt",
+        "Abbruch bei Verlust der Körperspannung"
+      ],
+      "fehlerhinweise": [
+        "Alle drei Drehungen müssen vollständig ausgeführt werden",
+        "Quadrat (1m x 1m) nicht verlassen",
+        "Körperspannung muss gehalten werden",
+        "Bei Verlust der Körperspannung wird abgebrochen"
+      ],
+      "bildPfad": "/images/kraft/handstandstehen-allg.jpg",
+      "einheit": "sekunden"
+    }
+  }
+}
