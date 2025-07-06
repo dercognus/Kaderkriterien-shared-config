@@ -1,0 +1,575 @@
+{
+  "ak8_mixed": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge AUF die Kästchen und wieder HERUNTER",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "AUF die Kästchen springen für AK 8",
+      "altersgruppe": "8",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge (keine Schrittstellung) AUF die Kästchen und wieder HERUNTER (beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge AUF die Kästchen",
+        "Beidbeinige Sprünge HERUNTER von den Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit"
+      ],
+      "wertung": [16, 18, 20, 22, 24, 26, 28, 30, 32, 34],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Bei AK 8 wird AUF die Kästchen gesprungen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "AUF die Kästchen springen, nicht darüber",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak8.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak9_mixed": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit"
+      ],
+      "wertung": [16, 18, 20, 22, 24, 26, 28, 30, 32, 34],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Bei AK 9-11 wird ÜBER die Kästchen gesprungen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak10_mixed": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit"
+      ],
+      "wertung": [16, 18, 20, 22, 24, 26, 28, 30, 32, 34],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Bei AK 9-11 wird ÜBER die Kästchen gesprungen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak11_mixed": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit"
+      ],
+      "wertung": [16, 18, 20, 22, 24, 26, 28, 30, 32, 34],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Bei AK 9-11 wird ÜBER die Kästchen gesprungen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Beidbeinige Sprünge ÜBER die Kästchen",
+      "description": "Kraftübung für Sprungkraft und Koordination",
+      "note": "ÜBER die Kästchen springen für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Sprint zum ersten Kästchen bereit",
+      "aktion": "Sprint zum ersten Kästchen, beidbeinige Sprünge ÜBER die Kästchen (keine Schrittstellung, beidbeiniger Absprung auch vor dem ERSTEN Kästchen). Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 4 Kästchen quer, Kästchen im Abstand von ca. 1m",
+      "besonderheiten": [
+        "Beidbeinige Sprünge ÜBER die Kästchen",
+        "Keine Schrittstellung erlaubt",
+        "Beidbeiniger Absprung auch vor dem ersten Kästchen",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Höhere Anforderungen als AK 9-11"
+      ],
+      "wertung": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die übersprungenen Kästchen",
+        "Beidbeinige Sprünge obligatorisch",
+        "Höhere Anforderungen als jüngere Altersklassen"
+      ],
+      "fehlerhinweise": [
+        "Schrittstellung führt zur Nichtanerkennung",
+        "Einbeiniger Absprung führt zur Nichtanerkennung",
+        "ÜBER die Kästchen springen, nicht auf sie",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak9-14.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprung über Kästchen + Salto vorwärts",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto vorwärts für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Sprint zu den Kästchen bereit",
+      "aktion": "Sprint zu den Kästchen, beidbeiniger Sprung über die Kästchen, anschließend Salto vorwärts (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 1x 2 Kästchen hochkant nebeneinander",
+      "besonderheiten": [
+        "Beidbeiniger Sprung über die Kästchen",
+        "Anschließend Salto vorwärts obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak15-16-salto.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprung über Kästchen + Salto vorwärts",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto vorwärts für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Sprint zu den Kästchen bereit",
+      "aktion": "Sprint zu den Kästchen, beidbeiniger Sprung über die Kästchen, anschließend Salto vorwärts (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 1x 2 Kästchen hochkant nebeneinander",
+      "besonderheiten": [
+        "Beidbeiniger Sprung über die Kästchen",
+        "Anschließend Salto vorwärts obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak15-16-salto.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprung über Kästchen + Salto vorwärts",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto vorwärts für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Sprint zu den Kästchen bereit",
+      "aktion": "Sprint zu den Kästchen, beidbeiniger Sprung über die Kästchen, anschließend Salto vorwärts (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 1x 2 Kästchen hochkant nebeneinander",
+      "besonderheiten": [
+        "Beidbeiniger Sprung über die Kästchen",
+        "Anschließend Salto vorwärts obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak15-16-salto.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprung über Kästchen + Salto vorwärts",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto vorwärts für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Sprint zu den Kästchen bereit",
+      "aktion": "Sprint zu den Kästchen, beidbeiniger Sprung über die Kästchen, anschließend Salto vorwärts (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m, 1x 2 Kästchen hochkant nebeneinander",
+      "besonderheiten": [
+        "Beidbeiniger Sprung über die Kästchen",
+        "Anschließend Salto vorwärts obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak15-16-salto.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_m": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprünge über Kästchen + Salto",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto für AK 17-20, höherer Aufbau",
+      "altersgruppe": "17-20",
+      "ausgangsposition": "Sprint zum ersten Hindernis bereit",
+      "aktion": "Sprint zum ersten Hindernis (Kästchen), beidbeinige Sprünge über die Kästchen, anschließend Salto (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m. 2x 2 Kästchen nebeneinander, hochkant",
+      "besonderheiten": [
+        "Beidbeinige Sprünge über die Kästchen",
+        "Anschließend Salto obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti",
+        "Höherer Aufbau als AK 15-16"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich",
+        "Höhere Hindernisse als bei AK 15-16"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak17-20-salto.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_w": {
+    "prellspruenge": {
+      "name": "Prellsprünge",
+      "requirement": "Sprünge über Kästchen + Salto",
+      "description": "Kraftübung für Sprungkraft, Koordination und Akrobatik",
+      "note": "Mit Salto für AK 17-20, höherer Aufbau",
+      "altersgruppe": "17-20",
+      "ausgangsposition": "Sprint zum ersten Hindernis bereit",
+      "aktion": "Sprint zum ersten Hindernis (Kästchen), beidbeinige Sprünge über die Kästchen, anschließend Salto (ohne Sturz! Schwung nach vorne ist ok – fallen nach hinten = Sturz) Weiterlaufen zur Wendemarke, Sprint zurück um die Startmarkierung und von vorne beginnen, usw.",
+      "aufbau": "Gesamtlänge 8m. 2x 2 Kästchen nebeneinander, hochkant",
+      "besonderheiten": [
+        "Beidbeinige Sprünge über die Kästchen",
+        "Anschließend Salto obligatorisch",
+        "Ohne Sturz - Schwung nach vorne erlaubt",
+        "Fallen nach hinten = Sturz",
+        "Sprint zur Wendemarke und zurück",
+        "60 Sekunden Zeit",
+        "Gezählt werden komplette Salti",
+        "Höherer Aufbau als AK 15-16"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: 60 Sekunden",
+        "Gezählt werden die kompletten Salti",
+        "Schwung nach vorne ist erlaubt",
+        "Fallen nach hinten gilt als Sturz",
+        "Kompletter Parcours erforderlich",
+        "Höhere Hindernisse als bei AK 15-16"
+      ],
+      "fehlerhinweise": [
+        "Sturz beim Salto führt zur Nichtanerkennung",
+        "Fallen nach hinten = Sturz",
+        "Salto muss komplett ausgeführt werden",
+        "Vollständige Parcours-Runde erforderlich"
+      ],
+      "bildPfad": "/images/kraft/prellspruenge-ak17-20-salto.jpg",
+      "einheit": "anzahl"
+    }
+  }
+}
