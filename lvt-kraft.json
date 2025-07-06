@@ -1,0 +1,511 @@
+{
+  "ak8_mixed": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Schräghang an der Sprossenwand",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Schräghang-Ausführung für AK 8",
+      "altersgruppe": "8",
+      "ausgangsposition": "Schräghang im Ristgriff an der Klimmzugstange der Sprossenwand mit gestreckten Armen. Die Beine sind etwa 45 Grad vorlings an der Sprossenwand abgestützt.",
+      "aktion": "Klimmzug bis das Brustbein an und das Kinn über die Stange kommt, dann senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und der Körper bleibt in der geraden Linie der Ausgangsposition.",
+      "besonderheiten": [
+        "Schräghang an der Sprossenwand",
+        "45° Winkel der Beine",
+        "Brustbein muss an die Stange"
+      ],
+      "wertung": [12, 14, 16, 18, 20, 22, 24, 26, 28, 30],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Brustbein muss an die Stange",
+        "Körperhaltung konstant halten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak8-schraghang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak9_mixed": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak10_mixed": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur", 
+      "note": "Langhang-Ausführung für AK 9-11",
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten", 
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten", 
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak11_mixed": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 9-11", 
+      "altersgruppe": "9-11",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten", 
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 12-14",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 15-16",
+      "altersgruppe": "15-16",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_m": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 17+",
+      "altersgruppe": "17-20",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_w": {
+    "klimmzuege": {
+      "name": "Klimmzüge",
+      "requirement": "Klimmzüge im Langhang am Reck in Schiffchenposition",
+      "description": "Kraftübung für Arm- und Rumpfmuskulatur",
+      "note": "Langhang-Ausführung für AK 17+",
+      "altersgruppe": "17-20",
+      "ausgangsposition": "Langhang (vollständig gestreckte Arme) am Reck im Ristgriff in Schiffchenposition, Zehen berühren eine glatte Matte/Kasten/Brett.",
+      "aktion": "Klimmzug im Ristgriff (Kinn jeweils über die Stange) und senken zurück in die Ausgangslage. Beine sind während der ganzen Bewegungsausführung gestreckt und geschlossen. Die Schiffchenposition muss während der gesamten Bewegungsausführung beibehalten werden. Die Füße müssen die Matte/Kasten/Brett während des kompletten Klimmzuges (Zug- und Senkbewegung) berühren.",
+      "besonderheiten": [
+        "Langhang am Reck",
+        "Schiffchenposition beibehalten",
+        "Füße berühren durchgehend Matte/Kasten",
+        "Nur Kinn muss über die Stange"
+      ],
+      "wertung": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Gezählt werden nur gültig ausgeführte Klimmzüge",
+        "Beine während der gesamten Bewegung gestreckt halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "fehlerhinweise": [
+        "Vollständige Streckung der Arme in der Ausgangsposition",
+        "Nur Kinn muss über die Stange",
+        "Körperhaltung konstant halten",
+        "Schiffchenposition beibehalten"
+      ],
+      "bildPfad": "/images/kraft/klimmzuege-ak9plus-langhang.jpg",
+      "einheit": "anzahl"
+    }
+  }
+}
