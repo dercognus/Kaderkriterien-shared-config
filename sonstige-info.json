@@ -23,6 +23,13 @@
         ]
       },
       {
+        "title": "Mindestkriterien AK 8",
+        "type": "warning",
+        "content": [
+          "Pflicht: P6 - M7"
+        ]
+      },
+      {
         "title": "Bestandteile der Leistungsvoraussetzungen",
         "type": "info",
         "content": [
@@ -89,6 +96,13 @@
           "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
           "5. Strecksprünge und TV (Technische Verbindung)",
           "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien AK 9",
+        "type": "warning",
+        "content": [
+          "Pflicht: P6 - M7"
         ]
       },
       {
@@ -160,6 +174,13 @@
         ]
       },
       {
+        "title": "Mindestkriterien AK 10",
+        "type": "warning",
+        "content": [
+          "Pflicht: P8 - W11"
+        ]
+      },
+      {
         "title": "Bestandteile der Leistungsvoraussetzungen",
         "type": "info",
         "content": ["LVT Teil 1 (Trampolin): Technische Norm (TN), Technikverbindungen (TV), Trampolinbewegungsnorm (TBN), Standsprünge",
@@ -224,6 +245,13 @@
           "4. Erfüllen der Pflichtelemente der TN und TBN im LVT",
           "5. Strecksprünge und TV (Technische Verbindung)",
           "6. Ranking und Kaderaufnahme"
+        ]
+      },
+      {
+        "title": "Mindestkriterien AK 11",
+        "type": "warning",
+        "content": [
+          "Pflicht: M5 - W11"
         ]
       },
       {
@@ -300,10 +328,10 @@
         "title": "Mindestkriterien männlich AK 12",
         "type": "warning",
         "content": [
+          "Mindestpflicht: M7 - W11",
           "Pflicht Mindestwert: 36,4",
           "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Rankingwert (2 Kür): 82,0"
         ]
       },
       {
@@ -372,10 +400,10 @@
         "title": "Mindestkriterien weiblich AK 12",
         "type": "warning",
         "content": [
+          "Mindestpflicht: M7 - W11",
           "Pflicht Mindestwert: 36,4",
           "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Rankingwert (2 Kür): 82,0"
         ]
       },
       {
@@ -441,13 +469,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien männlich AK 12",
+        "title": "Mindestkriterien männlich AK 13",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W11 - W13",
+          "Pflicht Mindestwert: 37,2",
+          "Kür Mindestwert: 42,3",
+          "Rankingwert (2 Kür): 86,8"
         ]
       },
       {
@@ -513,13 +541,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien weiblich AK 12",
+        "title": "Mindestkriterien weiblich AK 13",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W11 - W13",
+          "Pflicht Mindestwert: 37,0",
+          "Kür Mindestwert: 42,0",
+          "Rankingwert (2 Kür): 84,0"
         ]
       },
       {
@@ -585,13 +613,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien männlich AK 12",
+        "title": "Mindestkriterien männlich AK 14",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 38,4",
+          "Kür Mindestwert: 43,4",
+          "Rankingwert (2 Kür): 86,8"
         ]
       },
       {
@@ -657,13 +685,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien weiblich AK 12",
+        "title": "Mindestkriterien weiblich AK 14",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 38,0",
+          "Kür Mindestwert: 43,0",
+          "Rankingwert (2 Kür): 86,0"
         ]
       },
       {
@@ -729,13 +757,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien männlich AK 12",
+        "title": "Mindestkriterien männlich AK 15",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 39,0",
+          "Kür Mindestwert: 44,5",
+          "Rankingwert (2 Kür): 89,0"
         ]
       },
       {
@@ -801,13 +829,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien weiblich AK 12",
+        "title": "Mindestkriterien weiblich AK 15",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 38,6",
+          "Kür Mindestwert: 43,8",
+          "Rankingwert (2 Kür): 87,6"
         ]
       },
       {
@@ -873,13 +901,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien männlich AK 12",
+        "title": "Mindestkriterien männlich AK 16",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 40,0",
+          "Kür Mindestwert: 45,8",
+          "Rankingwert (2 Kür): 91,6"
         ]
       },
       {
@@ -945,13 +973,13 @@
         ]
       },
       {
-        "title": "Mindestkriterien weiblich AK 12",
+        "title": "Mindestkriterien weiblich AK 16",
         "type": "warning",
         "content": [
-          "Pflicht Mindestwert: 36,4",
-          "Kür Mindestwert: 41,0",
-          "Rankingwert (2 Kür): 82,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Mindestpflicht: W13",
+          "Pflicht Mindestwert: 39,0",
+          "Kür Mindestwert: 44,5",
+          "Rankingwert (2 Kür): 89,0"
         ]
       },
       {
@@ -1021,8 +1049,7 @@
         "type": "warning",
         "content": [
           "Kür Mindestwert: 47,5",
-          "Rankingwert (2 Kür): 95,0",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Rankingwert (2 Kür): 95,0"
         ]
       },
       {
@@ -1100,8 +1127,7 @@
         "type": "warning",
         "content": [
           "Kür Mindestwert: 46,1",
-          "Rankingwert (2 Kür): 92,2",
-          "Der Schwierigkeitsgrad wird nach den WAGC Regeln berechnet."
+          "Rankingwert (2 Kür): 92,2"
         ]
       },
       {
