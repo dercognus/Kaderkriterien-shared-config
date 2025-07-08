@@ -1,0 +1,450 @@
+{
+  "ak8_mixed": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak9_mixed": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak10_mixed": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak11_mixed": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [3, 5, 7, 9, 11, 13, 15, 17, 19, 21],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak12_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak13_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak14_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [7, 9, 11, 13, 15, 17, 19, 21, 23, 25],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak15_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak16_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_m": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  },
+  "ak17_w": {
+    "rollverbindung": {
+      "name": "Rollverbindung",
+      "requirement": "Rollverbindungen in Schiffchenposition ausführen",
+      "description": "Kraftübung für Bauchmuskulatur und Koordination",
+      "note": "Schiffchenposition ca. 150° Winkel",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Rückenlage in Schiffchenposition. Beide Hände fassen schulterbreit ein Band oder o.ä. (Ristgriff).",
+      "aktion": "Ganze Drehung in Schiffchenposition, Klappmesser gebückt mit Berühren der Zehenspitzen, ganze Drehung zurück, usw. Während der ganzen Aktion ist die Schiffchenposition beizubehalten, Arme und Beine sind gestreckt, Beine sind geschlossen, weder Arme, Schultern noch Beine berühren den Boden. Es soll eine flüssige Bewegung ausgeführt werden. Beim Klappmesser sollen Arme, Oberkörper und Beine gleichzeitig angehoben werden und die Finger und Fußspitzen sich auf 12Uhr treffen.",
+      "wertung": [11, 13, 15, 17, 19, 21, 23, 25, 27, 29],
+      "hinweise": [
+        "Zeit: ohne Zeitvorgabe",
+        "Schiffchenposition bedeutet ein Winkel von ca. 150°",
+        "Das Verharren in einer Position (Pause von max. 2 sec) wird ermahnt",
+        "3 nicht gezählte Rollverbindungen führen zum Abbruch",
+        "Abbruch bei Haltungsfehler oder Unterbrechung der Schiffchenposition"
+      ],
+      "fehlerhinweise": [
+        "Schiffchenposition beibehalten",
+        "Arme und Beine gestreckt halten",
+        "Beine geschlossen halten",
+        "Weder Arme, Schultern noch Beine berühren den Boden",
+        "Flüssige Bewegung ausführen"
+      ],
+      "bildPfad": "/images/kraft/rollverbindung.jpg",
+      "einheit": "anzahl"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "description": "Beweglichkeitsanforderungen gelten für alle Altersklassen und Geschlechter identisch",
+  "allgemein": {
+    "beweglichkeit": {
+      "uebungen": [
+        {
+          "id": "fussdehnung",
+          "name": "Fußdehnung",
+          "ausgangsposition": "Sitz mit gestreckten Beinen am Boden, Oberkörper aufrecht",
+          "aktion": "Maximale Fuß- und Spannstreckung beider Füße bei gestreckten Knien, ca. 10 Sek.",
+          "wertung": [
+            { "beschreibung": "Linie über allen Zehen", "punkte": 10 },
+            { "beschreibung": "Linien schneidet Zehen", "punkte": 6 },
+            { "beschreibung": "Linie berührt noch eine Zehe", "punkte": 2 },
+            { "beschreibung": "Alles andere", "punkte": 0 }
+          ],
+          "hinweise": [
+            "Bewertung anhand von Vergleichsbildern",
+            "Parallel zum Boden auf Sprunggelenk/Fußspann"
+          ],
+          "bildPfad": "/images/beweglichkeit/fussdehnung.jpg"
+        },
+        {
+          "id": "briefmarke",
+          "name": "Briefmarke mit Armrumpfwinkel",
+          "ausgangsposition": "Sitz mit gegrätschten Beinen (90-110 Grad) am Boden, Hände fassen schulterbreit einen Gymnastikstab im Ristgriff.",
+          "aktion": "Vorbeugen des gestreckten Oberkörpers mit gestreckten Armen, Kopf und Arme in Verlängerung zur Wirbelsäule. Dabei berührt der Oberkörper/die Brust nicht den Boden! Haltezeit ca. 8 Sek.",
+          "wertung": [
+            { "beschreibung": "Ganz flach und Schulterwinkel mind. 180° und Rücken gerade", "punkte": 10 },
+            { "beschreibung": "Nicht ganz flach oder Rücken nicht ganz gerade oder Schulterwinkel < 180° (mind. 170°)", "punkte": 6 },
+            { "beschreibung": "Nicht ganz flach und Schulterwinkel < 180° (mind. 170°) und/oder Rücken nicht ganz gerade", "punkte": 2 },
+            { "beschreibung": "Alles andere", "punkte": 0 }
+          ],
+          "hinweise": [
+            "Arme schulterbreit: nicht ausschultern/zu breit greifen",
+            "Bewertung anhand von Vergleichsbildern"
+          ],
+          "bildPfad": "/images/beweglichkeit/briefmarke.jpg"
+        },
+        {
+          "id": "bueckbeweglichkeit",
+          "name": "Bückbeweglichkeit",
+          "ausgangsposition": "Stand auf dem Turnhocker/kleiner Kasten, Fußspitzen schließen mit dem Hockerrand ab.",
+          "aktion": "Vorbeugen des gestreckten Oberkörpers bei maximal geöffnetem Armrumpfwinkel und gestreckten Armen, Kopf in Verlängerung zur Wirbelsäule, Haltezeit ca. 10 Sek.",
+          "wertung": [
+            { "beschreibung": "Abstand 20cm", "punkte": 10 },
+            { "beschreibung": "Abstand 18cm", "punkte": 8 },
+            { "beschreibung": "Abstand 16cm", "punkte": 6 },
+            { "beschreibung": "Abstand 14cm", "punkte": 4 },
+            { "beschreibung": "Abstand 12cm", "punkte": 2 }
+          ],
+          "hinweise": [
+            "Messung: Abstand zwischen Oberkante des Hockers und den Mittelfingern",
+            "Bewertung anhand der Tabelle"
+          ],
+          "bildPfad": "/images/beweglichkeit/bueckbeweglichkeit.jpg"
+        },
+        {
+          "id": "querspagat",
+          "name": "Querspagat rechts und Querspagat links",
+          "ausgangsposition": "Aus dem Stand seitlich vor einer Wand bzw. einem Kasten, ebener Untergrund",
+          "aktion": "Maximales Senken in den Spagat rechts und links ohne in der Hüfte aufzudrehen, vorderes und hinteres Bein gestreckt, Oberkörper senkrecht. Haltezeit ca. 10 Sek. Ein Versuch je Seite",
+          "wertung": [
+            { "beschreibung": "Ohne Schrittspalt", "punkte": 5 },
+            { "beschreibung": "Abstand < 5 cm", "punkte": 4 },
+            { "beschreibung": "Abstand < 10 cm", "punkte": 3 },
+            { "beschreibung": "Abstand < 15 cm", "punkte": 2 },
+            { "beschreibung": "Mehr als 15 cm", "punkte": 0 }
+          ],
+          "hinweise": [
+            "Messung: Abstand am vorderen Oberschenkelansatz zum Boden",
+            "Beide Seiten werden separat bewertet",
+            "Bewertung mit Maßband bzw. Messskala"
+          ],
+          "bildPfad": "/images/beweglichkeit/querspagat.jpg"
+        }
+      ],
+      "allgemeine_hinweise": [
+        "Alle Beweglichkeitsübungen gelten für beide Geschlechter identisch",
+        "Die Anforderungen sind altersklassenunabhängig",
+        "Jede Übung wird einzeln bewertet",
+        "Die Beweglichkeit ist Bestandteil des LVT (Leistungsvoraussetzungstest)",
+        "Aufwärmen vor den Übungen wird empfohlen"
+      ]
+    }
+  }
+}

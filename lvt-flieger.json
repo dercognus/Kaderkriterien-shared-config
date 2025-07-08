@@ -1,0 +1,354 @@
+{
+  "ak8_mixed": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [45, 50, 55, 60, 65, 70, 75, 80, 85, 90],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak9_mixed": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [45, 50, 55, 60, 65, 70, 75, 80, 85, 90],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak10_mixed": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [45, 50, 55, 60, 65, 70, 75, 80, 85, 90],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak11_mixed": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "8-11",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [45, 50, 55, 60, 65, 70, 75, 80, 85, 90],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak12_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak12_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak13_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak13_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak14_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak14_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "12-14",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak15_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak15_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak16_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak16_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak17_m": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  },
+  "ak17_w": {
+    "flieger": {
+      "name": "Flieger",
+      "requirement": "Oberkörper und gestreckte Arme anheben und halten",
+      "description": "Kraftübung für Rumpfmuskulatur",
+      "note": "Ausschultern nicht erlaubt",
+      "altersgruppe": "15-20",
+      "ausgangsposition": "Beine liegen bis zur Hüfte auf Matte oder Kastendeckel. Beide Hände fassen schulterbreit einen Gymnastikstab o.ä.",
+      "aktion": "Gestreckte Arme in Verlängerung des Oberkörpers halten, leichte / natürliche Überstreckung erlaubt. Oberkörper und gestreckte Arme anheben und halten.",
+      "wertung": [65, 70, 75, 80, 85, 90, 95, 100, 105, 110],
+      "hinweise": [
+        "Ausschultern nicht erlaubt",
+        "Extremes Hohlkreuz nicht erlaubt und führt nach 2. Verwarnung zum Abbruch"
+      ],
+      "fehlerhinweise": [
+        "Gestreckte Arme in Verlängerung des Oberkörpers halten",
+        "Leichte / natürliche Überstreckung erlaubt"
+      ],
+      "bildPfad": "/images/kraft/flieger.jpg",
+      "einheit": "sekunden"
+    }
+  }
+}
