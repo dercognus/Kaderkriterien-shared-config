@@ -4,7 +4,7 @@
       "pflicht": 2,
       "soll": 3,
       "eigeneAK": 3,
-      "tiefereAK": null
+      "tiefereAK": 0
     },
     "elements": [
       {
