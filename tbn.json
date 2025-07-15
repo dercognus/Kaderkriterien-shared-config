@@ -300,18 +300,6 @@
         "abzug": "0-6"
       },
       {
-        "element": "1 3/4 c vw R platt, Arme am Körper oder b",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
-        "abzug": "0-6"
-      },
-      {
-        "element": "1 3/4 b vw R platt, Arme am Körper oder c",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
-        "abzug": "0-6"
-      },
-      {
         "element": "1 3/4 c vw R 1 Schraube aus",
         "kuerzel": "702° R",
         "ausgangswert": 10,
@@ -361,18 +349,6 @@
         "element": "1 3/4 b vw R platt, Arme angelegt",
         "kuerzel": "700<",
         "ausgangswert": 9,
-        "abzug": "0-6"
-      },
-      {
-        "element": "1 3/4 c vw R platt, Arme am Körper oder b",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
-        "abzug": "0-6"
-      },
-      {
-        "element": "1 3/4 b vw R platt, Arme am Körper oder c",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
         "abzug": "0-6"
       },
       {
@@ -514,15 +490,15 @@
         "abzug": "0-6"
       },
       {
-        "element": "1 3/4 c vw R platt, Arme am Körper oder b",
-        "kuerzel": "700° oder 700<",
+        "element": "1 3/4 c vw R platt, Arme am Körper (oder b, aber nur eine Ausführung!)",
+        "kuerzel": "700°",
         "ausgangswert": 8,
         "abzug": "0-6"
       },
       {
-        "element": "1 3/4 b vw R platt, Arme am Körper oder c",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
+        "element": "1 3/4 b vw R platt, Arme am Körper  (oder c, aber nur eine Ausführung!)",
+        "kuerzel": "700<",
+        "ausgangswert": 9,
         "abzug": "0-6"
       },
       {
@@ -572,15 +548,15 @@
         "abzug": "0-6"
       },
       {
-        "element": "1 3/4 c vw R platt, Arme am Körper oder b",
-        "kuerzel": "700° oder 700<",
+        "element": "1 3/4 c vw R platt, Arme am Körper (oder b, aber nur eine Ausführung!)",
+        "kuerzel": "700°",
         "ausgangswert": 8,
         "abzug": "0-6"
       },
       {
-        "element": "1 3/4 b vw R platt, Arme am Körper oder c",
-        "kuerzel": "700° oder 700<",
-        "ausgangswert": 8,
+        "element": "1 3/4 b vw R platt, Arme am Körper  (oder c, aber nur eine Ausführung!)",
+        "kuerzel": "700<",
+        "ausgangswert": 9,
         "abzug": "0-6"
       },
       {
